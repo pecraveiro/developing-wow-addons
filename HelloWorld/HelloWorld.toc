@@ -1,0 +1,14 @@
+# Pedro Craveiro @ 26/10/2022 @ github.com/pecraveiro
+
+# .toc -> TABLE OF CONTENTS FILE. ALLOW US TO SPECIFY SOME META DATA AND SOME INFORMATION ABOUT OUR ADDON. (REQUIRED AND HAS TO BE THE SAME NAME AS THE FOLDER).
+## Interface: 30400
+## Title: HelloWorld
+## Notes: Shows a message of "Hello, World!" on screen.
+## Author: Pedro Craveiro
+## Version: 0.0.1
+
+HelloWorld.lua
+
+# How to get my interface number in game? Running a script in game: /run print((select(4, GetBuildInfo())));
+# Currently Version of the game (Classic WotLK): 30400
+# Wow API Reference: https://wowpedia.fandom.com/wiki/World_of_Warcraft_API
